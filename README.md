@@ -77,20 +77,9 @@ For this dificulty level, I'm very good with what I've learned so far. I'm just 
 
 ### AI Collaboration
 
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
-
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
-- What worked well? What didn't?
-
-**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
-
 I've used AI to evaluate comparisons between my work and the jpg files. I've also tried to ask it questions about how to make the pills clickable and hoverable. It is a bit of a shame that it doesn't really compare the pixels. Other than that, it's great tool for learning.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Alex Ionita](https://github.com/Alexandru736/social-links-profile)
+- Frontend Mentor - [@Alexandru736](https://www.frontendmentor.io/profile/Alexandru736)
