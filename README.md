@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Alexandru736/social-links-profile)
+- Live Site URL: [Live Site URL](https://social-links-profile-alexandru.netlify.app/)
 
 ## My process
 
@@ -81,5 +81,5 @@ I've used AI to evaluate comparisons between my work and the jpg files. I've als
 
 ## Author
 
-- Website - [Alex Ionita](https://github.com/Alexandru736/social-links-profile)
+- Website - [Alex Ionita](https://github.com/Alexandru736)
 - Frontend Mentor - [@Alexandru736](https://www.frontendmentor.io/profile/Alexandru736)
