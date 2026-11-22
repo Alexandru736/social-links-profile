@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --green: hsl(75, 94%, 57%);
+    --white: hsl(0, 0%, 100%);
+    --grey-700: hsl(0, 0%, 20%);
+    --grey-800: hsl(0, 0%, 12%);
+    --grey-900: hsl(0, 0%, 8%);
+    --paragraph-font-size: 14px;
+    --regular-font-weight: 400;
+    --semibold-font-weight: 600;
+    --bold-font-weight: 700;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--grey-900);
+    padding: 1.5rem;
+    font-family: 'Inter', sans-serif;
+    font-size: var(--paragraph-font-size);
+}
+
+main {
+    background-color: var(--grey-800);
+    padding: 1.5rem;
+    width: 100%;
+    max-width: 384px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.75rem;
+    gap: 1.5rem;
+}
+
+img {
+    border-radius: 100%;
+    width: 5.5rem;
+    height: 5.5rem;
+}
+
+.user {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.user h1 {
+    color: var(--white);
+    font-weight: var(--semibold-font-weight);
+    font-size: 1.5rem;
+}
+
+.user .location {
+    color: var(--green);
+    font-size: 0.875rem;
+    font-weight: var(--bold-font-weight);
+}
+
+.user-description {
+    color: var(--white);
+    font-size: 0.875rem;
+}
+
+.profile-links {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    list-style: none;
+}
+
+li {
+    width: 100%;
+}
+
+.link:hover, .link:focus-within {
+    background-color: var(--green);
+    color: var(--grey-700); 
+}
+
+.link {
+    border-radius: 0.5rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--grey-700);
+    padding: 0.75rem;
+}
+
+a {
+    color: var(--white);
+    font-weight: var(--bold-font-weight);
+    font-size: 0.875rem;
+    text-decoration: none;
+    outline: var(--green);
+}
+
+
+
+@media (max-width: 375px) {
+    main {
+        max-width: 327px;
+    }
+}
